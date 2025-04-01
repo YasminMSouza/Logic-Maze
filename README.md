@@ -19,6 +19,16 @@
 
 </div>
 
+### 👩🏾‍🦱 Autora
+
+<div align="center">
+  <a href="https://github.com/YasminMSouza" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yasmin-mendes-629a29267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:306230,100:98cb98&height=120&section=footer"/>
 
