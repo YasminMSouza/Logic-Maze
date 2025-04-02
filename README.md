@@ -5,6 +5,7 @@
 ### 🌟 Features | Funcionalidades
 
 <div align="center">
+  
 |  Emoji  | Description | 
 |:---------:|:------------|
 | 🌎 | Variáveis, Tipos de Dados | 
@@ -15,6 +16,7 @@
 | ✨ |  |
 | 📊 |  | 
 | 🔄 |  | 
+
 </div>
 
 ### 👩🏾‍🦱 Autora
