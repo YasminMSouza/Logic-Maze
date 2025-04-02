@@ -6,16 +6,20 @@
 
 <div align="center">
   
-|  Emoji  | Description | 
-|:---------:|:------------|
-| 🌎 | Variáveis, Tipos de Dados | 
-| 📱 |  | 
-| 🧠 |  | 
-| 🔍 |  | 
-| 🎮 |  | 
-| ✨ |  |
-| 📊 |  | 
-| 🔄 |  | 
+### 🌟 Features | Funcionalidades
+
+| Emoji | Descrição |
+|:-----:|-----------|
+| 🌎 | Variáveis, Constantes, Tipos de Dados, Conversão de Tipos, Comentários |
+| 📱 | Entrada e Saída, `print`, Interpolação de Strings |
+| 🧠 | Operadores Aritméticos, Relacionais, Lógicos, Ternário |
+| 🔍 | Condicionais (`if`, `else`, `switch`) |
+| 🎮 | Loops (`for-in`, `while`, `repeat-while`), `break`, `continue` |
+| ✨ | Funções, Closures, Parâmetros, Retorno, Tuplas |
+| 📊 | Arrays, Dicionários, Sets, Métodos de Coleções |
+| 🔄 | Structs, Enums, Classes, Inicializadores, Herança, Propriedades, Protocolos, Extensions |
+| ⚠️ | Optionals, `guard`, `nil`, `??`, Tratamento de Erros (`do`, `try`, `catch`) |
+| 🧩 | Modificadores de Acesso, Comentários de Documentação, `typealias` |
 
 </div>
 
