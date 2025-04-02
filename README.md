@@ -21,6 +21,10 @@
 
 </div>
 
+## 🌎 | Variáveis, Constantes, Tipos de Dados, Conversão de Tipos, Comentários
+
+### Variáveis
+Para declarar uma váriavel precisa usar a palavra **var**. 
 
 ### 👩🏾‍🦱 Autora
 
