@@ -30,7 +30,7 @@
   </a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:306230,100:98cb98&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc0cb,100:ff69b4&height=120&section=footer"/>
 
 </div>
 
