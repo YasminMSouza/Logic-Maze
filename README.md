@@ -2,11 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc0cb,100:ff69b4&height=200&section=header&text=YasLibrary&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&descAlignY=60&descSize=18">
 
-### 🌟 Features | Funcionalidades
+
 
 <div align="center">
   
-### 🌟 Features | Funcionalidades
+### 📚 | Tópicos
 
 | Emoji | Descrição |
 |:-----:|-----------|
